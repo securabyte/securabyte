@@ -1,3 +1,7 @@
+/**
+ *Submitted for verification at BscScan.com on 2021-04-25
+*/
+
 // @@@@ SECURABYTE PROTOCOL @@@@
 
 // Securabyte protocol is a autonomous yield and liquidity generation protocol
